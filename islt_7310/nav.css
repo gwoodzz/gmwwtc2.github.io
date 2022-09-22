@@ -1,8 +1,53 @@
- li {
+ navigationmenu.li {
     box-sizing: border-box;
     margin: 25px;
     padding: 25px;
-    background-color: #8A2BE2;
+    background-color: #22E1DC;
     width: fit-content;
+    list-style-type: none;
+
 }
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    }
+    nav>ul li {
+    width: 150px;
+    position: relative; 
+    text-align: center;
+    font-weight: bold;
+    color: darkmagenta;
+    }
+    nav ul li {
+    margin-bottom: 2px;
+    }
+    nav a {
+    text-decoration: none;
+    display: block;
+    border: 3px dotted magenta;
+    padding: 15px 15px 15px 15px;
+    }
     
+    
+    
+    nav a:link{
+    background-color: white;
+    }
+    nav a:hover, nav a:focus {
+    background-color: cornsilk;
+    }
+    nav a:active{
+    background-color: aquamarine;
+    }
+
+    nav ul>li ul {
+        position: absolute;
+        margin-top: 0;
+        margin-left: 100%;
+        display: none;
+        }
+        
+        nav>ul>li:hover>ul{
+        display: block;
+        }
