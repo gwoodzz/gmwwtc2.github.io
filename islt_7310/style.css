@@ -40,17 +40,6 @@ footer{
     
 }
 
-body,
-.website-counter {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-}
-
-body {
-  height: 100vh;
-}
 
 .website-counter {
     background-color: #ff4957;
@@ -61,6 +50,10 @@ body {
     font-weight: 700;
     font-size: 25px;
     margin-top: 10px;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
   }
   
   
