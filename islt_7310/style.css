@@ -15,7 +15,7 @@ h1 {
 }
 
 {
-    box-sizing: border-box;
+    box-sizing:border-box;
 }
 body{
 	margin:0px;
@@ -38,4 +38,6 @@ footer{
 	margin-top: 45px;
     background-image: url("https://gwoodzz.github.io/islt_7310/purp clouds.jpg");
     color: rgb(15, 240, 49);
+    
 }
+
