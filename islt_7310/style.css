@@ -10,10 +10,6 @@ h1 {
 }
 
 
-.footer {
-    background-image: url("https://gwoodzz.github.io/islt_7310/mountain gwoods.jpg");
-}
-
 {
     box-sizing:border-box;
 }
@@ -33,7 +29,7 @@ h1 {
    margin:0px auto;
    padding:0px 20px;
 }	
-footer{
+.footer{
     background-image: url("https://gwoodzz.github.io/islt_7310/purpclouds.jpg");
     color: rgb(47, 8, 156);
 }
