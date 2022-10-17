@@ -18,7 +18,7 @@ width: 150px;
 position: relative; 
 text-align: center;
 font-weight: bold;
-color: darkmagenta;
+color: rgb(252, 251, 252);
 }
 nav ul li {
 margin-bottom: 2px;
@@ -35,8 +35,8 @@ padding: 15px 15px 15px 15px;
 }
 
 .sub-items{
-	    background-color: rgb(92, 96, 221);
-    border: 1px solid #cec9c9;
+	    background-color: rgb(224, 113, 189);
+    border: 1px solid #cce444;
     box-shadow: 0px 4px 11px 2px #cf75db;
 	position: absolute;
 	display:none;
