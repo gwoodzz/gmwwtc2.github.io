@@ -19,11 +19,9 @@ h1 {
 }
 
 
-
 body{
-	margin:2px;
-
-
+	margin:0px;
+}
 h1 {
     color: #8A2BE2;
 }
@@ -35,10 +33,10 @@ h1 {
 .container {
    width:1080px;
    max-width:100%;
-   margin:600px auto;
-   padding:20px 20px;
-}
-   .imgg{
+   margin:0px auto;
+   padding:0px 20px;
+}	
+.imgg{
     padding-top: 10px;
 }
 #imgas{
@@ -154,7 +152,7 @@ footer{
    @media screen and (min-width:801px){
 
     .img1,img{padding-left: 2px;
-        width:230px;
+        width:370px;
     }
    }
    @media screen and (min-width:827px){
@@ -386,6 +384,9 @@ footer{
 
     
    }
+
+    
+   
 .website-counter {
     background-color: #ff4957;
     height: 80px;
