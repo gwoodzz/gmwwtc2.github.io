@@ -1,0 +1,43 @@
+@font-face { 
+
+    font-family: Anton-regular; 
+    
+    src: url("https://gwoodzz.github.io/islt_7310/Anton-Regular.ttf"); 
+    
+    }
+h1 {
+    color: #8A2BE2;
+}
+
+
+.footer {
+    background-image: url("https://gwoodzz.github.io/islt_7310/mountain gwoods.jpg");
+}
+
+{
+    box-sizing:border-box;
+}
+body{
+	margin:0px;
+}
+h1 {
+    color: #8A2BE2;
+}
+h1 {
+    font-family: 'CustomFont', Arial, sans-serif;
+    font-weight:normal;
+    font-style:normal;
+    }
+.container {
+   width:1080px;
+   max-width:100%;
+   margin:0px auto;
+   padding:0px 20px;
+}	
+footer{
+	margin-top: 45px;
+    background-image: url("https://gwoodzz.github.io/islt_7310/purp clouds.jpg");
+    color: rgb(15, 240, 49);
+    
+}
+
