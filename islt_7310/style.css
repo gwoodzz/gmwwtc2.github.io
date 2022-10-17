@@ -40,6 +40,18 @@ footer{
     
 }
 
+body,
+.website-counter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+body {
+  height: 100vh;
+}
+
 .website-counter {
     background-color: #ff4957;
     height: 80px;
