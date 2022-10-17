@@ -36,7 +36,28 @@ h1 {
 footer{
 	margin-top: 45px;
     background-image: url("https://gwoodzz.github.io/islt_7310/purpclouds.jpg");
-    color: rgb(15, 240, 49);
+    color: rgb(47, 8, 156);
     
 }
 
+.website-counter {
+    background-color: #ff4957;
+    height: 50px;
+    width: 80px;
+    color: white;
+    border-radius: 30px;
+    font-weight: 700;
+    font-size: 25px;
+    margin-top: 10px;
+  }
+  
+  
+  #reset {
+    margin-top: 20px;
+    background-color: #008cba;
+    cursor: pointer;
+    font-size: 18px;
+    padding: 8px 20px;
+    color: white;
+    border: 0;
+  }
