@@ -37,6 +37,17 @@ footer{
     background-image: url("https://gwoodzz.github.io/islt_7310/purpclouds.jpg");
     color: rgb(47, 8, 156);
 }
+@media screen and (min-width:769px)and (max-width:1090px){
+    
+    #images11{
+        width: 90%;
+        margin-left: 0px;
+        
+    }
+    #layout1{
+        width: 78%;
+        display: block;
+    }}
 
 .website-counter {
     background-color: #ff4957;
